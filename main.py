@@ -3,3 +3,7 @@
 # Date:
 
 # Write your code here
+length = float(input("Enter Length: "))
+width = float(input("Enter Width: "))
+
+print(f"Area of Rectangle = {length*width}")
